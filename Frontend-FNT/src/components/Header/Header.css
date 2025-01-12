@@ -34,11 +34,12 @@ a{
     align-items:center;
     font-size:large;
     font-weight: bold;
-    color:black;
+    color:grey;
 }
 
 a:hover{
-    border-bottom:3px solid black;
+    border-bottom:3.5px solid black;
+    color:black;
 }
 
 .fi-link{
