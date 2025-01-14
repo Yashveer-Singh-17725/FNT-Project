@@ -87,7 +87,6 @@ function Introduction() {
           <h1>Smart Recommendations</h1>
           <p> Get personalized nutrition advice</p>
         </div>
-        
       </div>
     )
   }
