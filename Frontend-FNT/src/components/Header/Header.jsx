@@ -1,13 +1,14 @@
 import React from 'react'
 import Button from '@mui/material/Button';
 import "./Header.css"
+import  logo from '../../assets/FNT-logo.jpg'
 
 function Header() {
 
   return (
     <div className='header'>
         <div className='logo-links'>
-            <img src='' class></img>
+            <img src={logo} class></img>
 
             <div className='page-rd-links'>
                 <a href="#" className='home-link'>Home</a>
